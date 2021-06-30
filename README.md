@@ -1,3 +1,3 @@
 # Python-Data-Analysis
-This Repository will contains some of datasets on which i have performed by analytical skills.
+This Repository will contains some of the datasets on which i have performed by analytical skills.
 Hope you will like it...
